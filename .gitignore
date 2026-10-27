@@ -1,0 +1,26 @@
+## Build and binary directories
+bin/
+obj/
+out/
+
+## Database and local SQLite files
+*.db
+*.db-shm
+*.db-wal
+*.db-journal
+
+## IDE / Editor directories and files
+.idea/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## OS generated files
+.DS_Store
+Thumbs.db
+
+## Logs and test results
+*.log
+TestResults/
